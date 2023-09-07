@@ -1,0 +1,4 @@
+dataset/
+static/uploads
+
+*.pdf
